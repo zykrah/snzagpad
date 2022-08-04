@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "Sleep-lib")(type "KiCad")(uri "${KIPRJMOD}/Sleep-lib")(options "")(descr ""))
 )
